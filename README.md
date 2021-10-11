@@ -46,6 +46,10 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Screenshot
 
-The following image shows the web application's appearance and functionality:
+The following image shows the web application's appearance:
 
-![Web Screenshot](./assets/images/screenshot.png)
+![Homepage](./public/assets/images/homepage.png)
+
+The following image shows the note-taker application's functionality:
+
+![App Functionality](./public/assets/images/app.png)
