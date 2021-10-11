@@ -41,7 +41,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Links
 
-- [Website Deployed on Heroku](https://kimshihyun.github.io/Weather-Dashboard/)
+- [Website Deployed on Heroku](https://kevink-note-taker.herokuapp.com/)
 - [Github Repo](https://github.com/KimShiHyun/Note-Taker-App)
 
 ## Screenshot
